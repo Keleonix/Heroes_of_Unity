@@ -1,0 +1,9 @@
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\obj\Debug\netstandard2.0.3\Heroes_of_Unity_classes.csprojAssemblyReference.cache
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\obj\Debug\netstandard2.0.3\Heroes_of_Unity_classes.AssemblyInfoInputs.cache
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\obj\Debug\netstandard2.0.3\Heroes_of_Unity_classes.AssemblyInfo.cs
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\obj\Debug\netstandard2.0.3\Heroes_of_Unity_classes.csproj.CoreCompileInputs.cache
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\bin\Debug\netstandard2.0.3\Heroes_of_Unity_classes.deps.json
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\bin\Debug\netstandard2.0.3\Heroes_of_Unity_classes.dll
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\bin\Debug\netstandard2.0.3\Heroes_of_Unity_classes.pdb
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\obj\Debug\netstandard2.0.3\Heroes_of_Unity_classes.dll
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Heroes_of_Unity_classes\obj\Debug\netstandard2.0.3\Heroes_of_Unity_classes.pdb

@@ -1,0 +1,7 @@
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\obj\Debug\Test_HoU.csprojAssemblyReference.cache
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\obj\Debug\Test_HoU.csproj.CoreCompileInputs.cache
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\bin\Debug\Test_HoU.exe.config
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\bin\Debug\Test_HoU.exe
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\bin\Debug\Test_HoU.pdb
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\obj\Debug\Test_HoU.exe
+E:\Unity_Hub\Projets\Heroes of Unity\Classes\Test_HoU\obj\Debug\Test_HoU.pdb

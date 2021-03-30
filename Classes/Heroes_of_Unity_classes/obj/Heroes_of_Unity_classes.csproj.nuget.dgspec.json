@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Unity_Hub\\Projets\\Heroes of Unity\\Classes\\Heroes_of_Unity_classes\\Heroes_of_Unity_classes.csproj": {}
+  },
+  "projects": {
+    "E:\\Unity_Hub\\Projets\\Heroes of Unity\\Classes\\Heroes_of_Unity_classes\\Heroes_of_Unity_classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Unity_Hub\\Projets\\Heroes of Unity\\Classes\\Heroes_of_Unity_classes\\Heroes_of_Unity_classes.csproj",
+        "projectName": "Heroes_of_Unity_classes",
+        "projectPath": "E:\\Unity_Hub\\Projets\\Heroes of Unity\\Classes\\Heroes_of_Unity_classes\\Heroes_of_Unity_classes.csproj",
+        "packagesPath": "C:\\Users\\axel\\.nuget\\packages\\",
+        "outputPath": "E:\\Unity_Hub\\Projets\\Heroes of Unity\\Classes\\Heroes_of_Unity_classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\axel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0.3"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0.3": {
+            "targetAlias": "netstandard2.0.3",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0.3": {
+          "targetAlias": "netstandard2.0.3",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

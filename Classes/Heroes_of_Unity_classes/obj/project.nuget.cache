@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WJpbffocZAOwksYNq1ft/jOCaM5rZY9w4cecZVXfYKs8dtDVEv1v+uCNww9pIAFYR9PPAE4hBWOgnQgvIXkKQ==",
+  "success": true,
+  "projectFilePath": "E:\\Unity_Hub\\Projets\\Heroes of Unity\\Classes\\Heroes_of_Unity_classes\\Heroes_of_Unity_classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\axel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
